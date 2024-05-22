@@ -1,5 +1,6 @@
 
-![giris](https://github.com/cnremir/MAKALE-ONERI-SISTEMI/assets/109234123/85eb12b4-ed0f-4ae0-8162-e2e1d7e57b56)
+
+![girisson](https://github.com/cnremir/MAKALE-ONERI-SISTEMI/assets/109234123/ff682efb-a25b-427e-9fe9-be1eb50ead0c)
 
 
 ![kayıt](https://github.com/cnremir/MAKALE-ONERI-SISTEMI/assets/109234123/c689c059-4447-491a-94a4-ddbae6ad23d2)
